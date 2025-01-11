@@ -1,0 +1,1 @@
+This folder contains documentation, EAGLE files, and manufacturing files for my EDES301 PCB design project. This design is a PocketBeagle-based Etch-A-Sketch controlled by two potentiometers and two buttons with a 2.8" TFT screen to display the image being produced.
